@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7e9f37-47e1-4100-9987-4e937904713a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/finalpro/maximum/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finalpro/maximum/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finalpro/maximum/runtime" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalpro/maximum/_maincode.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/maximum/_maincode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalpro/minimum/plottest.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/minimum/plottest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+            <state relative-caret-position="121">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -26,23 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finalpro/maximum/templates/graph.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+        <entry file="file://$PROJECT_DIR$/finalpro/maximum/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -61,6 +50,10 @@
         <option value="$PROJECT_DIR$/finalpro/maximum/templates/graph.html" />
         <option value="$PROJECT_DIR$/finalpro/maximum/_maincode.py" />
         <option value="$PROJECT_DIR$/finalpro/minimum/plottest.py" />
+        <option value="$PROJECT_DIR$/finalpro/maximum/templates/requirements" />
+        <option value="$PROJECT_DIR$/finalpro/maximum/runtime" />
+        <option value="$PROJECT_DIR$/finalpro/maximum/requirements" />
+        <option value="$PROJECT_DIR$/finalpro/maximum/Procfile" />
       </list>
     </option>
   </component>
@@ -115,6 +108,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\универ\программирование\legrandfinale\finalpro\maximum" />
       <recent name="C:\Users\Пользователь\универ\программирование\legrandfinale\finalpro" />
     </key>
   </component>
@@ -188,6 +182,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/finalpro/maximum/templates/graph.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -195,23 +199,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/maximum/runtime">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/maximum/requirements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        <state relative-caret-position="121">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+    <entry file="file://$PROJECT_DIR$/finalpro/maximum/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
