@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/79361FE4-E74C-7D43-AAC2-C2A26CF13468/main.js" charset="UTF-8"></script>
+</head>
+<body>
+	<h1>Здравсвуйте!</h1>
+	<p>Вам нужно будет ввести слово, которое Вы хотите искать, и ссылку на сообщество, в котором Вы хотите искать<br>
+    Я найду все вхождения этого слова в заданном сообществе и построю график в зависимости от времени. <br>
+        Рекомендую не использовать низкочастотные слова (e.g. <i>рододендрон</i>) и популярные (e.g. <i>не</i>)</p>
+	<form action="http://127.0.0.1:5000/graph" method="POST">
+		<fieldset>
+			<legend><strong><h3>Пожалуйста, введите искомое слово и ссылку на сообщество.</h3></strong></legend>
+			Введите ссылку на сообщество:<br>
+			<p>
+				<input name="link" type="text" value="https://vk.com/community">
+			</p>
+			Введите искомое слово:<br>
+			<p>
+				<input name="word" type="text" value="искомое_слово">
+			</p>
+			<p><input type='submit' value='Отправить'></p>
+		</fieldset>
+	</form>
+	<p></p>
+</body>
