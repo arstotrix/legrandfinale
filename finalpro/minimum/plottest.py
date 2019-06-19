@@ -2,8 +2,8 @@ import urllib.request, json
 from pymystem3 import Mystem
 import pymorphy2
 
-link = 'typical_olimp'
-word = 'университет'
+link = input('Введите ссылку на сообщество, например typical_olimp')
+word = input('Введите слово, например, университет')
 m = Mystem()
 
 tok = 'a7fe1623a7fe1623a7fe162351a797aadeaa7fea7fe1623fb5959690245101b2b598172'

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7e9f37-47e1-4100-9987-4e937904713a" name="Default Changelist" comment="" />
+    <list default="true" id="fc7e9f37-47e1-4100-9987-4e937904713a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/finalpro/minimum/plottest.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/minimum/plottest.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +45,7 @@
       <list>
         <option value="$PROJECT_DIR$/results.json" />
         <option value="$PROJECT_DIR$/finalpro/results.json" />
+        <option value="$PROJECT_DIR$/finalpro/minimum/plottest.py" />
       </list>
     </option>
   </component>
@@ -44,6 +71,18 @@
               <item name="legrandfinale" type="b2602c69:ProjectViewProjectNode" />
               <item name="legrandfinale" type="462c0819:PsiDirectoryNode" />
               <item name="finalpro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="legrandfinale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legrandfinale" type="462c0819:PsiDirectoryNode" />
+              <item name="finalpro" type="462c0819:PsiDirectoryNode" />
+              <item name="maximum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="legrandfinale" type="b2602c69:ProjectViewProjectNode" />
+              <item name="legrandfinale" type="462c0819:PsiDirectoryNode" />
+              <item name="finalpro" type="462c0819:PsiDirectoryNode" />
+              <item name="minimum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,6 +149,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
