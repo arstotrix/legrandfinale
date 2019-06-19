@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7e9f37-47e1-4100-9987-4e937904713a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/finalpro/minimum/plottest.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/minimum/plottest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalpro/maximum/_maincode.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/maximum/_maincode.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,22 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -46,6 +44,7 @@
         <option value="$PROJECT_DIR$/results.json" />
         <option value="$PROJECT_DIR$/finalpro/results.json" />
         <option value="$PROJECT_DIR$/finalpro/minimum/plottest.py" />
+        <option value="$PROJECT_DIR$/finalpro/maximum/_maincode.py" />
       </list>
     </option>
   </component>
@@ -152,22 +151,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
+    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+    <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
