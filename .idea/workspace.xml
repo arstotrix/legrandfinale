@@ -4,7 +4,7 @@
     <list default="true" id="fc7e9f37-47e1-4100-9987-4e937904713a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/finalpro/maximum/_maincode.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/maximum/_maincode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalpro/maximum/templates/graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/maximum/templates/graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalpro/minimum/plottest.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpro/minimum/plottest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="90" column="24" lean-forward="true" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+            <state relative-caret-position="149">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="359">
+              <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -57,10 +57,10 @@
       <list>
         <option value="$PROJECT_DIR$/results.json" />
         <option value="$PROJECT_DIR$/finalpro/results.json" />
-        <option value="$PROJECT_DIR$/finalpro/minimum/plottest.py" />
         <option value="$PROJECT_DIR$/finalpro/minimum/results.json" />
-        <option value="$PROJECT_DIR$/finalpro/maximum/_maincode.py" />
         <option value="$PROJECT_DIR$/finalpro/maximum/templates/graph.html" />
+        <option value="$PROJECT_DIR$/finalpro/maximum/_maincode.py" />
+        <option value="$PROJECT_DIR$/finalpro/minimum/plottest.py" />
       </list>
     </option>
   </component>
@@ -174,20 +174,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/finalpro/minimum/results.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/minimum/graph-plotter.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -200,10 +197,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/finalpro/maximum/_maincode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="90" column="24" lean-forward="true" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+        <state relative-caret-position="149">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalpro/minimum/plottest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="55" column="6" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>

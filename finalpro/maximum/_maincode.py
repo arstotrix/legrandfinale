@@ -19,7 +19,7 @@ def getsearcher(link, word):
     total = data['response']['count']
     posts += data['response']['items']
     print(total)
-    while of < total:
+    while of < 1000:
         http = 'https://api.vk.com/method/wall.get?domain=%s&count=100&offset=%d&v=5.92&access_token=%s' % (
             link, of, tok)
         req = urllib.request.Request(http)
@@ -45,17 +45,16 @@ def getsearcher(link, word):
                         cleanlemmas[lemma] = 1
             print(cleanlemmas)
             texts[post['date']] = cleanlemmas
-    results = {}
     xs = []
     ys = []
     for text in texts:
+        x = text
+        y = 0
         for lemma in texts[text]:
-            x = text
-            y = 0
             if word == lemma:
                 y = texts[text][lemma]
-            xs.append(x)
-            ys.append(y)
+        xs.append(x)
+        ys.append(y)
     X = []
     Y = []
     results = {}
@@ -87,9 +86,11 @@ def graph():
         #fin_form = link+'\n'+word
     return render_template('graph.html')
 
-if __name__ == "__main__":
-    app.run(debug=False)
-
+if __name__ == '__main__':
+    import os
+    app.debug = True
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
 
 
 

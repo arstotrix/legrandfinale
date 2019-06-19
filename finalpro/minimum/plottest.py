@@ -17,7 +17,7 @@ data = json.loads(result)
 total = data['response']['count']
 posts += data['response']['items']
 print(total)
-while of < total:
+while of < 1000:
     http = 'https://api.vk.com/method/wall.get?domain=%s&count=100&offset=%d&v=5.92&access_token=%s' % (
         link, of, tok)
     req = urllib.request.Request(http)
@@ -47,17 +47,16 @@ results = {}
 xs = []
 ys = []
 for text in texts:
+    x = text
+    y = 0
     for lemma in texts[text]:
-        x = text
-        y = 0
         if word == lemma:
             y = texts[text][lemma]
-        xs.append(x)
-        ys.append(y)
+    xs.append(x)
+    ys.append(y)
 results['x'] = xs
 results['y'] = ys
 with open('results.json', 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
-
 
 
