@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import urllib.request
 import json
+import matplotlib.pyplot as plt
 from pymystem3 import Mystem
 import pymorphy2
 import collections
@@ -67,6 +68,11 @@ def getsearcher(link, word):
     return X, Y
 
 def plott(X,Y):
+    plt.plot(X, Y)
+    #plt.show()
+    plt.savefig('static/plot1.png', format='png')
+    return 0
+
 app = Flask(__name__)
 @app.route('/')
 def index():
@@ -78,8 +84,8 @@ def graph():
         link = request.form['link']
         word = request.form['word']
         plott(getsearcher(link, word))
-        fin_form = link+'\n'+word
-    return render_template('graph.html', fin_form=fin_form)
+        #fin_form = link+'\n'+word
+    return render_template('graph.html')
 
 if __name__ == "__main__":
     app.run(debug=False)
